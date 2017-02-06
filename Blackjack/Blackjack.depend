@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1401602919 source:c:\users\illaura\desktop\seth's junk\blackjack\blackjackhand.cpp
+	"BlackJackHand.h"
+
+1401602930 c:\users\illaura\desktop\seth's junk\blackjack\blackjackhand.h
+	"PlayingCard.h"
+
+1401606040 c:\users\illaura\desktop\seth's junk\blackjack\playingcard.h
+	<string>
+
+1401768484 source:c:\users\illaura\desktop\seth's junk\blackjack\dealer.cpp
+	"Dealer.h"
+
+1401606039 c:\users\illaura\desktop\seth's junk\blackjack\dealer.h
+	"Player.h"
+
+1401768400 c:\users\illaura\desktop\seth's junk\blackjack\player.h
+	"PlayingCardDeck.h"
+	"BlackJackHand.h"
+
+1401602820 c:\users\illaura\desktop\seth's junk\blackjack\playingcarddeck.h
+	"PlayingCard.h"
+
+1385320478 source:c:\users\illaura\desktop\seth's junk\blackjack\main.cpp
+	<iostream>
+
+1401779283 source:c:\users\seth\desktop\blackjack\blackjackhand.cpp
+	"BlackJackHand.h"
+
+1401779283 c:\users\seth\desktop\blackjack\blackjackhand.h
+	"PlayingCard.h"
+
+1401779283 c:\users\seth\desktop\blackjack\playingcard.h
+	<string>
+
+1401781790 source:c:\users\seth\desktop\blackjack\dealer.cpp
+	"Dealer.h"
+
+1401782576 c:\users\seth\desktop\blackjack\dealer.h
+	"Player.h"
+	"PlayingCardDeck.h"
+
+1401782576 c:\users\seth\desktop\blackjack\player.h
+	"BlackJackHand.h"
+
+1401779283 c:\users\seth\desktop\blackjack\playingcarddeck.h
+	"PlayingCard.h"
+
+1401779283 source:c:\users\seth\desktop\blackjack\main.cpp
+	<iostream>
+
+1401779283 source:c:\users\seth\desktop\blackjack\playingcard.cpp
+	"PlayingCard.h"
+
+1401779283 source:c:\users\seth\desktop\blackjack\playingcarddeck.cpp
+	"PlayingCardDeck.h"
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1401782442 source:c:\users\seth\desktop\blackjack\player.cpp
+	"Player.h"
+
+1401782848 source:c:\users\seth\desktop\blackjack\blackjackgame.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"Player.h"
+	"Dealer.h"
+
+1401782848 source:c:\users\seth\desktop\blackjack\dealertest.cpp
+	<ctime>
+	<cstdlib>
+	"Player.h"
+	"Dealer.h"
+
+1401782495 source:c:\users\seth\desktop\blackjack\playertest.cpp
+	"Player.h"
+	"Dealer.h"
+
+1401779248 source:c:\users\seth\desktop\portfolio possibilities\blackjack\blackjackgame.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"Player.h"
+	"Dealer.h"
+
+1401778976 c:\users\seth\desktop\portfolio possibilities\blackjack\player.h
+	"BlackJackHand.h"
+
+1401775683 c:\users\seth\desktop\portfolio possibilities\blackjack\blackjackhand.h
+	"PlayingCard.h"
+
+1401775683 c:\users\seth\desktop\portfolio possibilities\blackjack\playingcard.h
+	<string>
+
+1401778976 c:\users\seth\desktop\portfolio possibilities\blackjack\dealer.h
+	"Player.h"
+	"PlayingCardDeck.h"
+
+1401775683 c:\users\seth\desktop\portfolio possibilities\blackjack\playingcarddeck.h
+	"PlayingCard.h"
+
+1401775683 source:c:\users\seth\desktop\portfolio possibilities\blackjack\blackjackhand.cpp
+	"BlackJackHand.h"
+
+1401778190 source:c:\users\seth\desktop\portfolio possibilities\blackjack\dealer.cpp
+	"Dealer.h"
+
+1401779248 source:c:\users\seth\desktop\portfolio possibilities\blackjack\dealertest.cpp
+	<ctime>
+	<cstdlib>
+	"Player.h"
+	"Dealer.h"
+
+1401778842 source:c:\users\seth\desktop\portfolio possibilities\blackjack\player.cpp
+	"Player.h"
+
+1401778895 source:c:\users\seth\desktop\portfolio possibilities\blackjack\playertest.cpp
+	"Player.h"
+	"Dealer.h"
+
+1401775683 source:c:\users\seth\desktop\portfolio possibilities\blackjack\playingcard.cpp
+	"PlayingCard.h"
+
+1401775683 source:c:\users\seth\desktop\portfolio possibilities\blackjack\playingcarddeck.cpp
+	"PlayingCardDeck.h"
+	<ctime>
+	<cstdlib>
+	<iostream>
+
